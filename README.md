@@ -8,4 +8,3 @@ This is a work in progress.
 Version 1
 ![bbbd_work_in_progress](https://github.com/LleeMcD/plotlydiploy/blob/main/static/images/bbbd_work_in_progress.png)
 Version 2
-![bbbd_work_in_progress](https://github.com/LleeMcD/plotlydiploy/blob/main/static/images/bbbd_work_in_progress_2.png)
